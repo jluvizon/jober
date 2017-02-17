@@ -1,0 +1,12 @@
+package com.jluvizon;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JoberApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JoberApplication.class, args);
+	}
+}
