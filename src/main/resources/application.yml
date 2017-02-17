@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: jober
+server:
+    port: 8080
+    contextPath: /jober
