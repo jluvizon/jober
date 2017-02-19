@@ -1,0 +1,5 @@
+CREATE TABLE t001_job_application (
+    a001_id MEDIUMINT NOT NULL AUTO_INCREMENT,
+    a001_description VARCHAR(200) NOT NULL,
+    PRIMARY KEY (a001_id)
+);
