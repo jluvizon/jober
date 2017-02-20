@@ -2,12 +2,12 @@
 spring:
    application:
    name: jober
-   datasource:
-      url: jdbc:mysql://localhost/jober
-      username: jober
-      password: jober
-      driver-class-name: com.mysql.jdbc.Driver
-      useSSL: false
+#   datasource:
+#      url: jdbc:mysql://localhost/jober
+#      username: jober
+#      password: jober
+#      driver-class-name: com.mysql.jdbc.Driver
+#      useSSL: false
 server:
    port: 8080
    contextPath: /jober
